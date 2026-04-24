@@ -1,6 +1,7 @@
 # Site information
 site_name: "五笔全码拆解查询"
-site_url: http://wubi.xiangyu.us.kg/
+# site_url: http://wubi.xiangyu.us.kg/
+# site_url: http://www.baidu.com
 # site_author: WolffyMe
 site_description: "all things about wubi input method"
 copyright: Copyleft &copy; 2024-2025
