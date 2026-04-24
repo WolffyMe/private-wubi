@@ -1,14 +1,14 @@
 # Site information
 site_name: "五笔全码拆解查询"
-site_url: https://wubi.xiangyu.us.kga/
-# site_author: WolffyMe
+site_url: https://wubi.xiangyu.us.kg/
+site_author: WolffyMe
 site_description: "all things about wubi input method"
 copyright: Copyleft &copy; 2024-2025
 # docs_dir: docs/
 
 # Repository
 repo_name: private-wubi
-repo_url: https://github.com/WolffyMe/private-wubia/
+repo_url: https://github.com/WolffyMe/private-wubi/
 # edit_uri: tree/main
 
 # Theme
