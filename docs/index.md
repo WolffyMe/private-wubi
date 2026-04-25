@@ -1,6 +1,6 @@
 ---
 icon: material/card-search
-title: "五笔编码拆解查询"
+title: "五笔编码查询"
 hide:
   - navigation
   - toc
