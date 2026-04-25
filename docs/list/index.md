@@ -1,6 +1,6 @@
 ---
 icon: material/table-search
-title: "五笔拆解常用字"
+title: "五笔常用字字表"
 hide:
   - navigation
   - toc
